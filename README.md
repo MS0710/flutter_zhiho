@@ -1,16 +1,16 @@
-# flutter_zhiho
+Flutter 仿知呼UI APP
+-------------
 
-A new Flutter project.
+Flutter 仿知呼UI設計APP
 
-## Getting Started
+| 關注 | 內容 |
+| :----: | :----: |
+| <img src="images/關注.jpg" width="50%"> | <img src="images/內容.jpg" width="50%">|
 
-This project is a starting point for a Flutter application.
+| 推薦 | 熱榜 |
+| :----: | :----: |
+| <img src="images/推薦.jpg" width="50%"> | <img src="images/熱榜.jpg" width="50%">|
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| 我的 |
+| :----: |
+| <img src="images/我的.jpg" width="30%"> |
